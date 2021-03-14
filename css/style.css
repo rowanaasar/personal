@@ -1,0 +1,47 @@
+*{
+    padding: 0 auto;
+    margin:0;
+    box-sizing: border-box;
+    font-family: 'Cairo', sans-serif; 
+}   
+h1{
+    font-weight: 700;
+}
+.btn{
+    background: linear-gradient(90deg, rgba(119,144,233,1) 35%, rgba(105,182,253,1) );
+    padding: 10px;   
+    color: white;
+}
+
+.imuser{
+        block-size: 30px;
+    }
+ #stat{
+        background-color: #6CAFFD;
+        color: white;
+        
+        }
+.sponser{
+            background-color: #6CAFFD;
+}
+.circle{
+        height: 170px;
+        width: 170px;
+        background-color:#edefff ;
+        border-radius: 50%;
+        border: 30px solid #e2e5ff;
+        font-size: 57px;   
+        text-align: center;
+        justify-content: center;
+        margin: auto;
+            }
+.banner{
+    /* background-image: url("../img/hero-img.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 500px; */
+    background-color: #F0F4FF;
+ }
+ #choose{
+     background-color: #F0F4FF;
+ }
